@@ -1,0 +1,90 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Fiction",
+        "year": 1925,
+        "read": false,
+        "added_data": "2021-01-01"
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "genre": "Mystery",
+        "year": 2003,
+        "read": false,
+        "added_data": "2021-01-01"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Fiction",
+        "year": 1951,
+        "read": false,
+        "added_data": "2021-01-01"
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "year": 1937,
+        "read": false,
+        "added_data": "2021-01-01"
+    },
+    {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "genre": "Science Fiction",
+        "year": 2008,
+        "read": false,
+        "added_data": "2021-01-01"
+    },
+    {
+        "title": "The Help",
+        "author": "Kathryn Stockett",
+        "genre": "Historical Fiction",
+        "year": 2009,
+        "read": false,
+        "added_data": "2021-01-01"
+    },
+    {
+        "title": "The Giver",
+        "author": "Lois Lowry",
+        "genre": "Science Fiction",
+        "year": 1993,
+        "read": false,
+        "added_data": "2021-01-01"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Fiction",
+        "year": 1988,
+        "read": false,
+        "added_data": "2021-01-01"
+    },
+    {
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "genre": "Historical Fiction",
+        "year": 2005,
+        "read": false,
+        "added_data": "2021-01-01"
+    },
+    {
+        "title": "ashir",
+        "author": "geo",
+        "publication_year": "2003",
+        "genre": "male",
+        "read_status": false,
+        "added_date": "2025-03-15 19:27:12"
+    },
+    {
+        "title": "King",
+        "author": "Ashir",
+        "publication_year": "2025",
+        "genre": "no",
+        "read_status": false,
+        "added_date": "2025-03-15 19:32:55"
+    }
+]
